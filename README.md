@@ -1,2 +1,2 @@
 # Git Hub Code
- code from get hub
+ code from git hub
